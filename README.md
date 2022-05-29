@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammed-sufyan-hussain
+- 👋 Hi, I’m @MSH-2001
 - 👀 I’m interested in Graphic + UI + UX Design and Photography
 - 🌱 I’m currently a Software Engineering Student
 - 📫 www.mohammed-hussain.co.uk
